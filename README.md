@@ -24,7 +24,8 @@ Households without a vehicle may be unable to evacuate on their own during flood
 1. Added the Living Atlas layer to a new web map in ArcGIS Online.
 2. Filtered the nationwide tract-level layer to Carroll County, Maryland (County Name and State Name conditions).
 3. Reviewed tract-level values in the attribute table and pop-ups.
-4. Exported the final map as an image.
+4. Applied a feature effect to emphasize the 10 tracts with the highest percentage of households without vehicle access, while keeping the remaining tracts visible but muted for context.
+5. Exported the final map as an image.
 
 ## Limitations
 ACS figures are survey-based estimates with margins of error, which can be large for small areas like census tracts. Results should be treated as approximate indicators rather than exact counts.
